@@ -4,11 +4,17 @@ Development task done for flutter internship
 ---
 File Structure 📂
 lib
+
 ├───data
+
 │   ├───Model
+
 │   └───Repository
+
 └───Homepage
+
     ├───BLoC
+
     └───widgets
 ---
 
