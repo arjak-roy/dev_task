@@ -12,8 +12,10 @@ lib
 │   └───Repository
 
 └───Homepage
-    ├───BLoC
-    └───widgets
----
+
+   ├───BLoC
+    
+   └───widgets
+    
 
 IMPORTANT: The debounce package mentioned in the requirements is not updated. So I have used a different package i.e easy_debouncer
