@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328708454508",
+    "project_id": "devtask-d47db",
+    "storage_bucket": "devtask-d47db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328708454508:android:878a73f8e706c812e00049",
+        "android_client_info": {
+          "package_name": "com.example.dev_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSgbYSWSA98tZw785VmKCqrfOJvXB1ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
