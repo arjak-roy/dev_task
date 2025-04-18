@@ -12,9 +12,7 @@ lib
 │   └───Repository
 
 └───Homepage
-
     ├───BLoC
-
     └───widgets
 ---
 
