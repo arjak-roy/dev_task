@@ -1,3 +1,3 @@
 # dev_task
 
-A new Flutter project.
+Development task done for flutter internship
